@@ -1,4 +1,4 @@
 # FirstProject-demo
 This is my first Git Repository.
 <br>
-Author - Naziya Mohammad
+Author - Naziya (Firstproject)
